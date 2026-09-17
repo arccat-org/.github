@@ -1,8 +1,6 @@
-# ARC CAT 🐱
+# An independent community project for Arc explorers.
 
-An independent community project for Arc explorers.
-
-🌐 [Website](https://arc-cat.dillon425.chatgpt.site) · 𝕏 [@ARC_CAT_](https://x.com/ARC_CAT_) · [Whitepaper](https://arc-cat.dillon425.chatgpt.site/whitepaper.html)
+🌐 [Website](https://arccat.space) · 𝕏 [@ARC_CAT_](https://x.com/ARC_CAT_) · [Whitepaper](https://arccat.space/whitepaper)
 
 Building **CAT RADAR** — a clearer way to discover onchain assets and activity.
 
